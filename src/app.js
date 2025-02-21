@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import cookieParcer from "cookie-Parcer";
+import cookieParser from "cookie-Parser";
 const app = express()
 
 app.use(cors({
